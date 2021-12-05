@@ -1,0 +1,74 @@
+#contact {
+  background-color: #f5f5f5;
+}
+
+.jumbotron h1 {
+  font-family: "Nunito", sans-serif;
+  color: lightyellow;
+}
+
+.jumbotron h4 {
+  font-family: "Nunito", sans-serif;
+}
+
+#featured h1 {
+  font-family: "PT Serif", serif;
+  color: sienna;
+}
+
+#aboutus h1 {
+  font-family: "PT Serif", serif;
+  color: sienna;
+}
+
+#upcoming,
+#candyGame {
+  font-family: "PT Serif", serif;
+}
+
+#community {
+  background-color: slateblue;
+  color: white;
+}
+
+.jumbotron {
+  background: url("Images/Mossy.jpg") center center / cover no-repeat;
+
+  color: white;
+  text-shadow: black 2px;
+}
+
+.btn-store {
+  color: #777777;
+  min-width: 254px;
+  padding: 12px 20px !important;
+  border-color: #dddddd !important;
+}
+
+.btn-store:focus,
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: #168eea;
+  border-color: #168eea !important;
+}
+
+.btn-store .btn-label,
+.btn-store .btn-caption {
+  display: block;
+  text-align: left;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 24px;
+}
+
+/* .fa-1x {
+    font-size: 1.5rem;
+    }
+    .navbar-toggler.toggler-example {
+    cursor: pointer;
+    }
+     .dark-blue-text {
+    color: #0A38F5;
+    } */
